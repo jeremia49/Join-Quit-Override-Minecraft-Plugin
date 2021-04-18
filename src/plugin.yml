@@ -1,0 +1,5 @@
+main: pw.jeremia.BasicPlugin.Main
+name: Join-Quit-Override_Minecraft_Plugin
+version: 1.0
+author: jeremia49
+description: This plugin gives you ability to Override "<name> joined the game!" and "<name> left the game!"

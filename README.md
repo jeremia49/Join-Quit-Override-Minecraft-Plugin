@@ -1,6 +1,6 @@
 # Join-Quit Override Minecraft Plugin
 
-This plugin gives you ability to Override "<name> joined the game!" and "<name> left the game!"
+This plugin gives you ability to Override "\<name\> joined the game!" and "\<name\> left the game!"
 
 ### Installing
 
